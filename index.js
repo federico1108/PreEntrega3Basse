@@ -83,4 +83,3 @@ function crearTemplate() {
         `;
   });
 }
-console.log(crearTemplate)
